@@ -2,11 +2,7 @@
 // +----------------------------------------------------------------------
 // | ThinkPHP [ WE CAN DO IT JUST THINK IT ]
 // +----------------------------------------------------------------------
-<<<<<<< HEAD
 // | Copyright (c) 2006-2014 http://thinkphp.cn All rights reserved.
-=======
-// | Copyright (c) 2006-2015 http://thinkphp.cn All rights reserved.
->>>>>>> dev
 // +----------------------------------------------------------------------
 // | Licensed ( http://www.apache.org/licenses/LICENSE-2.0 )
 // +----------------------------------------------------------------------
@@ -39,5 +35,4 @@ return array(
     'LOG_TYPE'          =>  'Sae',
     'DATA_CACHE_TYPE'   =>  'Memcachesae',
     'CHECK_APP_DIR'     =>  false,
-    'FILE_UPLOAD_TYPE'  =>  'Sae',
 );
