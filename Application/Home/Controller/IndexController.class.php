@@ -5,4 +5,7 @@ class IndexController extends Controller {
     public function index(){
     	echo '首页控制器';
     }
+    public function test(){
+    	echo '测试控制器';
+    }
 }
