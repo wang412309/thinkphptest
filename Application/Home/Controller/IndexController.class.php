@@ -10,6 +10,10 @@ class IndexController extends Controller {
     }
     
     public function test1(){
+    	echo '测试控制器';
     	echo '撒大发生地方撒地方制器';
+    }
+    public function test2(){
+    	echo '测试控制器';
     }
 }
