@@ -17,4 +17,7 @@ class IndexController extends Controller {
     public function test3(){
     	echo '测试控制器';
     }
+    public function test4(){
+    	echo 'sdfsdf';
+    }
 }
